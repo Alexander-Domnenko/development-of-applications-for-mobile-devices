@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">air_ticket</string>
+
+    <string-array name="departure_cities">
+        <item><font color="gray">Пункт отправления</font></item>
+        <item>Иркуктск</item>
+        <item>Новосибирск</item>
+        <item>Москва</item>
+    </string-array>
+
+    <string-array name="arrival_cities">
+        <item><font color="gray">Пункт прибытия</font></item>
+        <item>Иркуктск</item>
+        <item>Новосибирск</item>
+        <item>Москва</item>
+    </string-array>
+
+    <string name="change_date">Выберите дату</string>
+    <string name="search_button_text">Поиск</string>
+    <string name="departure_date_hint">Дата вылета</string>
+    <string name="arrival_date_hint">Дата прилета</string>
+    <string name="adults_hint">Взрослые</string>
+    <string name="children_hint">Дети</string>
+    <string name="infants_hint">Младенцы</string>
+
+</resources>
